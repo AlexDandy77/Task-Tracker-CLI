@@ -1,0 +1,54 @@
+{
+  "next_id": 9,
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Buy milk",
+      "status": "in-progress",
+      "createdAt": "2025-08-12T01:48:35Z",
+      "updatedAt": "2025-08-13T22:19:58Z"
+    },
+    {
+      "id": 2,
+      "description": "Refactor auth",
+      "status": "done",
+      "createdAt": "2025-08-13T15:45:33Z",
+      "updatedAt": "2025-08-13T22:23:16Z"
+    },
+    {
+      "id": 3,
+      "description": "buy milk",
+      "status": "todo",
+      "createdAt": "2025-08-13T15:45:37Z",
+      "updatedAt": null
+    },
+    {
+      "id": 4,
+      "description": "buy milk",
+      "status": "todo",
+      "createdAt": "2025-08-13T15:46:07Z",
+      "updatedAt": null
+    },
+    {
+      "id": 5,
+      "description": "buy milk",
+      "status": "done",
+      "createdAt": "2025-08-13T15:46:39Z",
+      "updatedAt": "2025-08-13T22:23:42Z"
+    },
+    {
+      "id": 6,
+      "description": "buy milk",
+      "status": "in-progress",
+      "createdAt": "2025-08-13T15:46:46Z",
+      "updatedAt": "2025-08-13T22:23:58Z"
+    },
+    {
+      "id": 8,
+      "description": "Refactor login flow",
+      "status": "todo",
+      "createdAt": "2025-08-13T22:23:30Z",
+      "updatedAt": null
+    }
+  ]
+}
