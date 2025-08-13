@@ -1,7 +1,7 @@
 # Task Tracker (CLI, Python)
 
 A tiny dependency-free command-line task tracker that stores tasks in `tasks.json` in the **current working directory**.  
-Implements the Roadmap.sh spec: add, update, delete, mark in-progress/done, and list by status — using only the Python standard library.
+Implements the Roadmap.sh (https://roadmap.sh/projects/task-tracker) spec: add, update, delete, mark in-progress/done, and list by status — using only the Python standard library.
 
 ---
 
